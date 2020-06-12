@@ -42,4 +42,6 @@ class MainActivity : AppCompatActivity() {
         val text = list_textView.text.toString() + mark.toString() + "\n"
         list_textView.text = text
     }
+
+    //test
 }
